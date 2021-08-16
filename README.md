@@ -10,7 +10,7 @@ Fintech Domain I am working on
 5. [Nestwealth](https://www.nestwealth.com)
 ### **TABLE OF CONTENTS**
 * Introduction
-    - [What is Robo-ADvisor](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
+    - [What is Robo-Advisor](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
 * Technologies Used by Robo-Advisor
     - [Artificial Intelligence](https://www.forbes.com/sites/ilkerkoksal/2020/04/18/how-ai-is-expanding-the-applications-of-robo-advisory/?sh=10cdae3b55c3)
   
