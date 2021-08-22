@@ -153,7 +153,7 @@ Providing cost-effective services along with human touch, Justwealth is one of t
 
 Companies in this domain are tend to measured by their assets under management (AUM) and the clients they acquire. However, this information for Justwealth is not available at the moment.
 
-# Recommendation 
+# 5.Recommendations 
 
 If I were to advise Justwealth I would recommend them to work a bit more on the technology side of the business. The company tends to have a great back end service but the user interface is something they need to work on, to which investors can have a smoooth investment experience.  
 I would also recommend them to create a mobile application to be more accessible to their clients.
