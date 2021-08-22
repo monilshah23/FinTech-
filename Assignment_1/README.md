@@ -93,7 +93,7 @@ Their *FREE PORTFOLIO REVIEW* service is something really impressive. They provi
 Comparing Justwealth’s pricing with competitors in the modern wealth management industry, the average fees on a mutual fund is 2% and in comparison to that Justwealth offers a low fee 0.50% for the accounts worth of $5000 - $500,000 and 0.40% on accounts worth more than $500,000. Along with that up to 0.25% management fees charged by the funds. Justwealth have a standard minimum fees of $10/month on the accounts below $25000. The best part of Justwealth’s pricing is they do not charge minimum on RESP accounts.
 
 #### The impact of fees on your investment portfolio
-To see just how important fees can be, consider an investor with $100,000. A Justwealth client would pay a low, annual management fee of 0.50%, plus (on average) an additional 0.20% in ETF management fees. A typical mutual fund charges 2.20%. What would you do with the extra money?
+[ To see just how important fees can be, consider an investor with $100,000. A Justwealth client would pay a low, annual management fee of 0.50%, plus (on average) an additional 0.20% in ETF management fees. A typical mutual fund charges 2.20%. What would you do with the extra money? ](https://www.justwealth.com/pricing/)
 
 ![The impact of investment fees on your portfolio](https://www.justwealth.com/wp-content/uploads/2015/01/justwealth-impact-of-extra-fees-diagram2.png?x42623)
 
