@@ -100,9 +100,9 @@ Comparing Justwealth’s pricing with competitors in the modern wealth managemen
 For more information please review Justwealth’s dedicated  page for pricing information. 
 [https://www.justwealth.com/pricing/](https://www.justwealth.com/pricing/)
 
-The company haven't disclosed the technology platform they use for their operations. But through "Creunchbase" we can get some sort of idea as it mentions, Justwealth  uses  28  technology products and services including  HTML5, Google Analytics, and jQuery, according to  [G2 Stack](https://stack.g2.com/ "G2 Stack"). Justwealth is actively using  38  technologies for its website, according to  [BuiltWith ](https://builtwith.com/ "BuiltWith"). These include  Viewport Meta, IPhone / Mobile Compatible, and SPF. (https://www.finder.com/ca/justwealth-robo-advisor
+The company haven't disclosed the technology platform they use for their operations. But through "Creunchbase" we can get some sort of idea as it mentions, "Justwealth  uses  28  technology products and services including  HTML5, Google Analytics, and jQuery, according to  [G2 Stack](https://stack.g2.com/ "G2 Stack"). Justwealth is actively using  38  technologies for its website, according to  [BuiltWith ](https://builtwith.com/ "BuiltWith"). These include  Viewport Meta, IPhone / Mobile Compatible, and SPF." (https://www.finder.com/ca/justwealth-robo-advisor
 
-Generally speaking, through AI and data, robo-advisors look for more in-depth information. 
+Generally speaking, through AI and data, robo-advisors look for more in-depth information for the investors and provide appropriate investment options. 
 https://www.forbes.com/advisor/in/investing/what-is-a-robo-advisor-and-how-does-it-work/
 
 # 3. Landscape & 4. Results
@@ -120,7 +120,7 @@ Robo-Advisor platforms has seen dramatic innovative growth in the industry. The 
 	
 https://www.wealthprofessional.ca/news/industry-news/canadian-fintech-sees-half-year-investment-surge-to-almost-5bn/358821
 
-In regards to *Robo-advisory* key market trends that helped to drive the growth in this industry are rapid digitalization in the financial services sector, investors preference to robo-advisor from the traditional brick & mortar and the major role for the massive growth in the industry is because of the low-cost services that the current platforms provides.
+In regards to *Robo-advisory*, key market trends that helped to drive the growth in this industry are rapid digitalization in the financial services sector, investors preference to robo-advisor from the traditional brick & mortar and the major role for the massive growth in the industry is because of the low-cost services that the current platforms provides.
 
 There are many key players in the roba-advisory sector so far but the top Canadian robo-advisor are
 
@@ -140,12 +140,13 @@ Companies in this domain are tend to measured by their assets under management (
 
 # Recommendation 
 
-If I were to advise Justwealth I would recommend them to work a bit more on the technology side of the business. The company tends to have a great back end service but the user interface is something the needs to work on to which will help the investment process more smoothly for the investors.  
+If I were to advise Justwealth I would recommend them to work a bit more on the technology side of the business. The company tends to have a great back end service but the user interface is something they need to work on, to which investors can have a smoooth investment experience.  
 I would also recommend them to create a mobile application to be more accessible to their clients.
 
-In regards to the business aspects they have a minimum balance requirements for $5000 which as per their target market is relevant but in order to acquire more clients the company should think to lower it to a nominal amount or cut down to $0 requirement.
+In regards to the business aspects they have a minimum balance requirements for $5000 which as per their target market is relevant but in order to acquire more clients the company should think to lower it to a nominal market amount (which is $1000) or cut down to $0 requirement.
 
-By 2018 Justwealth also directed its focus towards institutional clients partnering up with Advisors, Group RRSPs, Corporate Accounts and with Not-for-profit Organizations. With this B2B approach it will help them to acquire more clients and along with the current services I would add a couple services more i.e. Credit services, Estate & Trust Planning, Tax advice, mortgage advise and robo-realtor.
+By 2018 Justwealth also directed its focus towards institutional clients partnering up with Advisors, Group RRSPs, Corporate Accounts and with Not-for-profit Organizations. https://www.justwealth.com/jwi/ 
+With this B2B approach it will help them to acquire more clients and along with the current services I would add a couple services more i.e. Lending services, Estate & Trust Planning, Tax advice, mortgage advise, robo-realtor, Insurance Tech, Payments/Ecommerce/Billing
 
 Adding this value added services will help Justwealth transform itself a one stop service firm for all the financial needs of a customer and converting itself to a big conglomerate such as NBFCs (Non-Banking Financial Services).
 
@@ -153,4 +154,4 @@ There are various technology available that can be used for the above recommenda
 
 ![](https://fintechnews.ch/wp-content/uploads/2018/07/Canadian-fintechs-by-category.png)[](https://www.shopify.com/)
 
-
+https://fintechnews.ch/fintech/fintech-canada-report/19783/
