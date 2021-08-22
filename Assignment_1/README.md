@@ -170,3 +170,21 @@ There are various technology available that can be used for the above recommenda
 ![](https://fintechnews.ch/wp-content/uploads/2018/07/Canadian-fintechs-by-category.png)[](https://www.shopify.com/)
 
 https://fintechnews.ch/fintech/fintech-canada-report/19783/
+
+
+
+
+
+
+
+
+
+
+
+![](https://media-exp1.licdn.com/dms/image/C5603AQGYuLLutInq0Q/profile-displayphoto-shrink_200_200/0/1621375731567?e=1635379200&v=beta&t=JEopcqp_Jv-Dw0IO3BHyXezmzCEMEKFoUebbY_dzQu0)
+#### Monil Shah
+CIM Aspirant
+
+Toronto, Canada
+
+www.linkedin.com/in/monil873
