@@ -181,7 +181,19 @@ https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
 
 
+
+
+
+
+
+
+### Prepared by:
+
+
+
+
 ![](https://media-exp1.licdn.com/dms/image/C5603AQGYuLLutInq0Q/profile-displayphoto-shrink_200_200/0/1621375731567?e=1635379200&v=beta&t=JEopcqp_Jv-Dw0IO3BHyXezmzCEMEKFoUebbY_dzQu0)
+
 #### Monil Shah
 CIM Aspirant
 
