@@ -1,6 +1,6 @@
 # **FinTech Case Study**
 
-# **Robo-Advisor** *(Digital wealth manager, Financial planne)*
+# **Robo-Advisor** *(Digital wealth manager, Financial planner)*
 
 ## Table of contents:
 
